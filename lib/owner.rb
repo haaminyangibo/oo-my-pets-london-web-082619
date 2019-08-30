@@ -50,7 +50,7 @@ end
 
 def walks_dogs
   
-  Dog.each { |dog| dog.mood = "happy" }
+ 
 
 end
   
